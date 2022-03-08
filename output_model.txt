@@ -1,0 +1,6 @@
+A | 0.244 0.516 0.023 0.021 0.02 0.106 
+C | 0.293 0.02 0.04 0.936 0.94 0.061 
+G | 0.2 0.02 0.02 0.021 0.02 0.534 
+T | 0.263 0.444 0.917 0.022 0.02 0.299 
+Note 1: PWM is normalized to 1.0
+Note 2: The first column represents the background probability
